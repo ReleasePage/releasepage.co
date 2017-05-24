@@ -58,12 +58,18 @@ Enable Add-ons [here's how](https://help.releasepage.co/api/getting-started) for
 [reload.js](https://github.com/ReleasePage/reload.js) will show a popup or refresh your app when there is a new GitHub version released ⚡️
 
 ## Questions?
+
 Check out the [help center][2]
+
 Read more on our [homepage][3]
+
 Email us hello@releasepage.co
+
 Tweet us [@ReleasePage][1]
 
 ### Stay in touch
+
 Follow us on Twitter: [@ReleasePage][1]
+
 
 [1]: https://twitter.com/ReleasePage
