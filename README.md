@@ -7,6 +7,8 @@ ReleasePage allows you to create a client-facing changelog for your app.
 
 Powered by GitHub tags and releases, you can keep the technical details alongside your source code as nature intended, while also providing a beautiful place for your users to stay up-to-date with any changes.
 
+Get started at https://releasepage.co
+
 <img width="778" alt="Release Page Screenshot" src="https://cloud.githubusercontent.com/assets/3687223/26393815/35b9486e-4095-11e7-865f-d184aee32018.png">
 
 #### Always up to date
