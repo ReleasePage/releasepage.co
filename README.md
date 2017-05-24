@@ -1,7 +1,7 @@
 ReleasePage.co [![ReleasePage version](https://api.releasepage.co/v1/pages/8fc7f9c9-77a1-4a6d-9cfd-e39f0e2667c2/badge.svg?apiKey=live.so3d2NxuYySRgv54)](http://releases.releasepage.co)
 =========
 
-## What is ReleasePage?
+### What is ReleasePage?
 
 ReleasePage allows you to create a client-facing changelog for your app.
 
@@ -51,14 +51,13 @@ Enable Add-ons [here's how](https://help.releasepage.co/api/getting-started) for
 
 [reload.js](https://github.com/ReleasePage/reload.js) will show a popup or refresh your app when there is a new GitHub version released ⚡️
 
-### Questions?
-Check out our [help center][2], read more on our [homepage][3] or [get in touch](mailto:hello@releasepage.co)!
+## Questions?
+Check out the [help center][2]
+Read more on our [homepage][3]
+Email us hello@releasepage.co
+Tweet us [@ReleasePage][1]
 
 ### Stay in touch
 Follow us on Twitter: [@ReleasePage][1]
-Email us: hello@releasepage.co
-
 
 [1]: https://twitter.com/ReleasePage
-[2]: https://help.releasepage.co
-[3]: https://releasepage.co
