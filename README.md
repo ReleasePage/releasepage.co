@@ -1,5 +1,11 @@
-ReleasePage.co [![ReleasePage version](https://api.releasepage.co/v1/pages/8fc7f9c9-77a1-4a6d-9cfd-e39f0e2667c2/badge.svg?apiKey=live.so3d2NxuYySRgv54)](http://releases.releasepage.co)
+ReleasePage.co
 =========
+
+[![ReleasePage version](https://api.releasepage.co/v1/pages/8fc7f9c9-77a1-4a6d-9cfd-e39f0e2667c2/badge.svg?apiKey=live.so3d2NxuYySRgv54)](http://releases.releasepage.co)
+
+Create beautiful webpages to publish the latest GitHub releases of your software
+
+<hr>
 
 ### What is ReleasePage?
 
