@@ -73,3 +73,5 @@ Follow us on Twitter: [@ReleasePage][1]
 
 
 [1]: https://twitter.com/ReleasePage
+[2]: https://help.releasepage.co
+[3]: https://releasepage.co
